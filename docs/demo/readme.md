@@ -13,7 +13,7 @@ Set the following IP address - hostname mapping:
 
 ## Step 1: Manufacturer create an order:
 
-* Go to the http://kcsolution:3110 URL to access the demonstration home page:
+* Go to the http://kcsolution:3010 URL to access the demonstration home page:
 
 ![kc-home](kc-home.png)
 
