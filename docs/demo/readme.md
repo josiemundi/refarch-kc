@@ -11,7 +11,7 @@ Set the following IP address - hostname mapping:
 * Hostname `kcsolution` to map to localhost when running on local computer
 * 
 
-## Step 1: Manufacturer create an order:
+## Step 1: Manufacturer create an order
 
 * Go to the http://kcsolution:3110 URL to access the demonstration home page:
 
@@ -67,11 +67,11 @@ If you plug a 'orders topic' consumer you can see the following trace with the s
 
 ## Step 2: K Container Shipment Manager looking at Orders
 
-From the home page goes to the Shipment Inc tile:
+From the home page, go to the Shipment Inc tile:
 
 ![](shipment-inc.png) 
 
-Then the home page lists the current order the shipment company received
+You should see a list of the current orders that have been received by the shipment company:
 
 ![](kc-shipment-home.png)
 
